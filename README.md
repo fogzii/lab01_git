@@ -158,7 +158,7 @@ To clone this lab's repo, you first need to get its SSH URL. To do this, click o
 To make the actual clone, navigate to the directory (folder) where you want to store COMP1531 related exercises and run the following commands:
 
 ```shell
-$ git clone <SSH URL YOU COPIED>
+$ git clone SSH_URL_YOU_COPIED_FROM_GITLAB
 $ cd lab01_git            # To navigate into the directory
 ```
 
